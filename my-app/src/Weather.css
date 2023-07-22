@@ -4,6 +4,8 @@
     color: rgb(135, 135, 135);
     padding: 16px;
     border-radius: 4px;
+    background-color: antiquewhite;
+    
 }
 
 .Weather form {
@@ -35,7 +37,6 @@ line-height: 29px;
     display: inline-block;
     margin-right: 10px;
     float: left;
-    
 }
 
 
